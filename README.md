@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Saanchoo
 
-💻 **Software Engineer @ [Vertiports Network](https://www.vertiports.network)**  
+💻 **Software Engineer [Vertiports Network](https://www.vertiports.network)**  
 🚀 Helping build the digital and infrastructure backbone for the future of **Urban Air Mobility**.
 
 ---
@@ -30,7 +30,7 @@ I’m a **Software Engineer** passionate about technology, innovation, and build
 
 ### 📫 Let’s connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergio-sancho-calzada-58b5b2147/)  
-- ✉️ youremail@example.com  
+- ✉️ sergiosanchosnc@gmail.com
 
 ---
 
