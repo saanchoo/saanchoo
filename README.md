@@ -9,9 +9,9 @@ I’m a **Software Engineer** passionate about building things that connect the 
 I love exploring data, automating processes, and creating projects that just *work better* in real life.
 
 ---
-<!-- Lenguajes -->
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanchoo&layout=compact&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saanchoo&theme=dark) 
-
+<p align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saanchoo&theme=dark) 
+</p>
 ---
 
 ### 🛠️ What I like to build
