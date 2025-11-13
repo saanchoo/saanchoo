@@ -5,48 +5,28 @@
 ---
 
 ### 🧠 About me
-I’m a **Software Engineer** passionate about technology, innovation, and building things that connect the physical and digital worlds.  
-
-**🎓 Background:** Higher Technician in *Networked Computer Systems Administration (ASIR)*  
-**📚 Currently studying:** *Software Engineering*  
-
-**🌐 Languages:**  
-- 🇪🇸 Spanish — Native  
-- 🇬🇧 English — C1  
-- 🇮🇹 Italian — B2  
+I’m a **Software Engineer** passionate about building things that connect the physical and digital worlds.  
+I love exploring data, automating processes, and creating projects that just *work better* in real life.
 
 ---
 
 ### 🛠️ What I like to build
-<div style="display: flex; flex-direction: column; gap: 0.5rem;">
+**🚀 Data & Curiosity**  
+From analyzing F1 races in Python to exploring patterns in everyday systems — anything that helps understand how things really work.  
 
-**🚀 Data & Curiosity:**  
-Projects that mix data, performance, and curiosity — from analyzing F1 races in Python to anything that helps understand how things really work  
-
-**⚡ Smart Tech:**  
-Tech that feels alive: smart systems, automation, and tools that make everyday stuff a bit faster, cleaner, and more efficient  
-
-</div>
+**⚡ Smart Tech**  
+Automation, tools, and systems that make life smoother, faster, and more efficient — tech that feels alive.  
 
 ---
 
 ### ⚡ Fun facts
-- 🏎️ Big **Formula 1** fan — I love data, strategy, and how every detail can change the race  
+- 🏎️ Big **Formula 1** fan — strategy, data, and tiny details that change everything  
 - ☕ Coffee, gym sessions, and side projects keep me going  
 - 🌍 I love discovering new places and could totally see myself living in different cities as a digital nomad someday  
 
 ---
 
-### 🛠️ My skills
-**Programming & Data:**  
-Python ▮▮▮▮▮▯ 80%  
-C# / .NET ▮▮▮▮▯▯ 70%  
-SQL / Databases ▮▮▮▮▮▯ 80%  
-
-**Web & DevOps:**  
-HTML/CSS ▮▮▮▮▯▯ 70%  
-JavaScript ▮▮▮▯▯▯ 50%  
-Git / GitHub ▮▮▮▮▮▮ 100%  
+**🌐 Languages:** Spanish 🇪🇸 | English 🇬🇧 | Italian 🇮🇹  
 
 ---
 
@@ -57,4 +37,3 @@ Git / GitHub ▮▮▮▮▮▮ 100%
 ---
 
 > “The best way to predict the future is to build it.” — Alan Kay
-
