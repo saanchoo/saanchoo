@@ -8,10 +8,14 @@
 I’m a **Software Engineer** passionate about building things that connect the physical and digital worlds.  
 I love exploring data, automating processes, and creating projects that just *work better* in real life.
 
----
+----
+
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saanchoo&theme=dark) 
+  <a href="https://github.com/saanchoo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saanchoo&theme=dark" alt="GitHub Streak">
+  </a>
 </p>
+
 ---
 
 ### 🛠️ What I like to build
