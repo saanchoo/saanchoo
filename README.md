@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Saanchoo
 
-💻 **Software Engineer [Vertiports Network](https://www.vertiports.network)**  
+💻 **Software Engineer at [Vertiports Network](https://www.vertiports.network)**  
 🚀 Helping build the digital and infrastructure backbone for the future of **Urban Air Mobility**.
 
 ---
