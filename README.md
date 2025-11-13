@@ -36,4 +36,11 @@ Automation, tools, and systems that make life smoother, faster, and more efficie
 
 ---
 
+<!-- Lenguajes -->
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanchoo&layout=compact&theme=dark)
+
+<!-- Stats generales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saanchoo&show_icons=true&theme=dark)
+
+
 > “The best way to predict the future is to build it.” — Alan Kay
