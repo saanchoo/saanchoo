@@ -9,6 +9,10 @@ I’m a **Software Engineer** passionate about building things that connect the 
 I love exploring data, automating processes, and creating projects that just *work better* in real life.
 
 ---
+<!-- Lenguajes -->
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanchoo&layout=compact&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saanchoo&theme=dark) 
+
+---
 
 ### 🛠️ What I like to build
 **🚀 Data & Curiosity**  
@@ -35,12 +39,5 @@ Automation, tools, and systems that make life smoother, faster, and more efficie
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiosanchosnc@gmail.com)  
 
 ---
-
-<!-- Lenguajes -->
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanchoo&layout=compact&theme=dark)
-
-<!-- Stats generales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saanchoo&show_icons=true&theme=dark)
-
 
 > “The best way to predict the future is to build it.” — Alan Kay
