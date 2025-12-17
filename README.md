@@ -6,7 +6,7 @@
 
 ### 🧠 About me
 I’m a **Software Engineer** passionate about building things that are somehow useful.  
-I love exploring data, automating processes, and creating projects that just *work better* in real life.
+I love exploring data, automating processes, and creating projects that can help you in real life.
 
 ----
 
