@@ -37,14 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saanchoo&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
-<br>
-
-> [!NOTE]
-> **🏎️ ¿Curiosidad sobre mi afición por la F1?**
-> Soy un gran fan de la Fórmula 1, y en especial de Fernando y Carlos. Más allá de la telemetría y la estrategia, este año hay muchas ganas de ver qué pasa. Con la llegada de Adrian Newey a Aston Martin hay posibilidades reales de dar la sorpresa, y por parte de Carlos, esperemos verle rascar otro podio como mínimo esta temporada. ¡Si te mola la F1, escríbeme y compartimos opiniones!
-
-<br>
-
 <p align="center">
   <i>"The best way to predict the future is to build it." — Alan Kay</i><br><br>
 </p>
