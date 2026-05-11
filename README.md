@@ -12,7 +12,7 @@
   <tr>
     <td valign="top" width="55%">
       <h3>🧠 Un poco sobre mí</h3>
-      <p>Escribo código, y me obsesiono con entender cómo funcionan las cosas por debajo. Me gusta crear herramientas útiles, automatizando lo aburrido para dejar espacio a lo interesante.</p>
+      <p>Picando código, y me obsesionado con crear herramientas útiles, automatizando lo aburrido para dejar espacio a lo interesante.</p>
       <ul>
         <li>💻 <b>Actualmente:</b> Software Engineer en <a href="https://www.vertiports.network">Vertiports Network</a>.</li>
         <li>🌍 <b>Fuera del teclado:</b> Seguramente me encuentres jugando al pádel, tomando un café o viajando por el mundo.</li>
